@@ -1,0 +1,10 @@
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormII\obj\Debug\AppWinFormII.csprojAssemblyReference.cache
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormII\obj\Debug\AppWinFormII.Form1.resources
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormII\obj\Debug\AppWinFormII.Properties.Resources.resources
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormII\obj\Debug\AppWinFormII.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormII\obj\Debug\AppWinFormII.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormII\bin\Debug\AppWinFormII.exe.config
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormII\bin\Debug\AppWinFormII.exe
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormII\bin\Debug\AppWinFormII.pdb
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormII\obj\Debug\AppWinFormII.exe
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormII\obj\Debug\AppWinFormII.pdb

@@ -1,0 +1,7 @@
+C:\Users\valen\source\repos\net-Programacion3\Apunte\bin\Debug\Apunte.exe.config
+C:\Users\valen\source\repos\net-Programacion3\Apunte\bin\Debug\Apunte.exe
+C:\Users\valen\source\repos\net-Programacion3\Apunte\bin\Debug\Apunte.pdb
+C:\Users\valen\source\repos\net-Programacion3\Apunte\obj\Debug\Apunte.csprojAssemblyReference.cache
+C:\Users\valen\source\repos\net-Programacion3\Apunte\obj\Debug\Apunte.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\net-Programacion3\Apunte\obj\Debug\Apunte.exe
+C:\Users\valen\source\repos\net-Programacion3\Apunte\obj\Debug\Apunte.pdb

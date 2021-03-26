@@ -1,0 +1,10 @@
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormIIAct7\bin\Debug\AppWinFormIIAct7.exe.config
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormIIAct7\bin\Debug\AppWinFormIIAct7.exe
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormIIAct7\bin\Debug\AppWinFormIIAct7.pdb
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormIIAct7\obj\Debug\AppWinFormIIAct7.csprojAssemblyReference.cache
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormIIAct7\obj\Debug\AppWinFormIIAct7.Practica_7.resources
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormIIAct7\obj\Debug\AppWinFormIIAct7.Properties.Resources.resources
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormIIAct7\obj\Debug\AppWinFormIIAct7.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormIIAct7\obj\Debug\AppWinFormIIAct7.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormIIAct7\obj\Debug\AppWinFormIIAct7.exe
+C:\Users\valen\source\repos\net-Programacion3\AppWinFormIIAct7\obj\Debug\AppWinFormIIAct7.pdb

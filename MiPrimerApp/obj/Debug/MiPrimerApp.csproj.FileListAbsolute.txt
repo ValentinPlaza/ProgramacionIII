@@ -1,0 +1,10 @@
+C:\Users\valen\source\repos\net-Programacion3\MiPrimerApp\bin\Debug\MiPrimerApp.exe.config
+C:\Users\valen\source\repos\net-Programacion3\MiPrimerApp\bin\Debug\MiPrimerApp.exe
+C:\Users\valen\source\repos\net-Programacion3\MiPrimerApp\bin\Debug\MiPrimerApp.pdb
+C:\Users\valen\source\repos\net-Programacion3\MiPrimerApp\obj\Debug\MiPrimerApp.csprojAssemblyReference.cache
+C:\Users\valen\source\repos\net-Programacion3\MiPrimerApp\obj\Debug\MiPrimerApp.Ventana.resources
+C:\Users\valen\source\repos\net-Programacion3\MiPrimerApp\obj\Debug\MiPrimerApp.Properties.Resources.resources
+C:\Users\valen\source\repos\net-Programacion3\MiPrimerApp\obj\Debug\MiPrimerApp.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\net-Programacion3\MiPrimerApp\obj\Debug\MiPrimerApp.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\net-Programacion3\MiPrimerApp\obj\Debug\MiPrimerApp.exe
+C:\Users\valen\source\repos\net-Programacion3\MiPrimerApp\obj\Debug\MiPrimerApp.pdb
